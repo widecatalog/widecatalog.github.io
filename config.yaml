@@ -1,4 +1,4 @@
-baseURL: "https://widecatalog.github.io/site/"
+baseURL: "https://widecatalog.github.io"
 theme: "up-business-theme"
 languageCode: "en-us"
 
