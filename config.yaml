@@ -2,15 +2,15 @@ baseURL: "https://www.widecatalog.com"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "WideCatalog"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "WideCatalog"
+  description: "We provide the most complete product catalog API for your marketplace."
   images: 
     - "images/hero-image.png"
 
@@ -29,13 +29,13 @@ params:
 
   location:
     - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    # - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "info@widecatalog.com"
+    # - "207.555.0119"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 WideCatalog All Rights Reserved"
 
   postProcess: false
 

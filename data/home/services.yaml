@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "We offer our service on different kind of products"
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Apparel"
+      text: "Any type of clothing or garment. Provide brand, model, official link and price, Stock Keeping Unit (SKU) or Manufacturer Part Number (MPN)."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Electronic Devices"
+      text: "All kind of electronics consumer good. Provide brand, model, official link and price, Stock Keeping Unit (SKU) or Manufacturer Part Number (MPN)."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "More coming soon"
+      text: "We are actively working on providing more kind of products. Contact us to know if we can cover your use case."
       button:
-        label: "Learn more"
+        label: "Contact us"
         url: "#"
